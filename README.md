@@ -1,6 +1,6 @@
 # Colombia-Analysis
 As the population increases, demand for food increases too, which has led to large-scale land conversion to improve livestock production in Colombia. Fulfilling these criteria of increasing demand in a sustainable way is a challenge and remote sensing data provides an accurate method to support this task. In this study, Planet Scope multispectral satellite datasets and coincident field measurements acquired over test fields in the study area (Patía) of September 2018 was be used. Fresh and dry weight biomass was calculated and forage quality analyses, crude protein (CP), in vitro dry matter digestibility (IVDMD), Ash and standing biomass dry weight (DM) was carried out in the forage nutritional quality laboratory of International Centre for Tropical Agriculture (CIAT). Field data was related to the remote sensing data using the random forest regression algorithm. R was required for the statistical analysis, to figure out the model performance for IVDMD, CP, Ash and DM. This project also investigated the spatial distribution of livestock which is affected by quality and area of potential forage zones. The R2 values of the regression models were 0.74 for IVDMD, 0.69 for CP, 0.38 for Ash and 0.49 for DM using a predictor combination of vegetation indices, simple ratios and bands.  
-2488539G Anushka Ghildiyal
+Anushka Ghildiyal
 "MONITORING AND PREDICTION OF PASTURE QUALITY AND PRODUCTIVITY USING PLANET SCOPE SATELLITE DATA
 FOR SUSTAINABLE LIVESTOCK PRODUCTION SYSTEMS IN COLOMBIA"
 MSc Geoinformation Technology and Cartography
